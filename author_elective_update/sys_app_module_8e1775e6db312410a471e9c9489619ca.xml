@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="c94122494a362312007f2ce5bd78768f" table="sys_app_module">
+    <sys_app_module action="DELETE">
+        <active>true</active>
+        <application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application>
+        <assessment/>
+        <device_type/>
+        <filter table="sys_application_property_value">sys_application_propertySTARTSWITHx_58872_needit^EQ<item endquery="false" field="sys_application_property" goto="false" newquery="false" operator="STARTSWITH" or="false" value="x_58872_needit"/>
+            <item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/>
+        </filter>
+        <hint/>
+        <homepage/>
+        <image/>
+        <link_type>LIST</link_type>
+        <map_page/>
+        <mobile_title>NeedIt Properties</mobile_title>
+        <mobile_view_name>Mobile</mobile_view_name>
+        <name>sys_application_property_value</name>
+        <order>900</order>
+        <override_menu_roles>false</override_menu_roles>
+        <query/>
+        <report/>
+        <roles>x_58872_needit.admin</roles>
+        <sys_class_name>sys_app_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 06:18:58</sys_created_on>
+        <sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>8e1775e6db312410a471e9c9489619ca</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_overrides/>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_app_module_8e1775e6db312410a471e9c9489619ca</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 06:18:58</sys_updated_on>
+        <timeline_page/>
+        <title>NeedIt Properties</title>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+        <window_name/>
+    </sys_app_module>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>de10877fdb58f7409df22f17d49619b9</instance_id>
+        <instance_name>dev77384</instance_name>
+        <name>sys_app_module_8e1775e6db312410a471e9c9489619ca</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="c94122494a362312007f2ce5bd78768f" table="sys_app_module"><sys_app_module action="INSERT_OR_UPDATE"><active>true</active><application display_value="NeedIt">0242fb8d0fa83200cd674f8ce1050e79</application><assessment/><device_type/><filter table="sys_application_property_value">sys_application_propertySTARTSWITHx_58872_needit^EQ<item endquery="false" field="sys_application_property" goto="false" newquery="false" operator="STARTSWITH" or="false" value="x_58872_needit"/><item endquery="true" field="" goto="false" newquery="false" operator="=" or="false" value=""/></filter><hint/><homepage/><image/><link_type>LIST</link_type><map_page/><mobile_title>NeedIt Properties</mobile_title><mobile_view_name>Mobile</mobile_view_name><name>sys_application_property_value</name><order>900</order><override_menu_roles>false</override_menu_roles><query/><report/><roles>x_58872_needit.admin</roles><sys_class_name>sys_app_module</sys_class_name><sys_created_by>admin</sys_created_by><sys_created_on>2021-01-22 06:18:58</sys_created_on><sys_domain>c94122494a362312007f2ce5bd78768f</sys_domain><sys_domain_path>/</sys_domain_path><sys_id>8e1775e6db312410a471e9c9489619ca</sys_id><sys_mod_count>0</sys_mod_count><sys_name>NeedIt Properties</sys_name><sys_overrides/><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_app_module_8e1775e6db312410a471e9c9489619ca</sys_update_name><sys_updated_by>admin</sys_updated_by><sys_updated_on>2021-01-22 06:18:58</sys_updated_on><timeline_page/><title>NeedIt Properties</title><uncancelable>false</uncancelable><view_name/><window_name/></sys_app_module></record_update>]]></payload>
+        <payload_hash>2107607576</payload_hash>
+        <record_name>NeedIt Properties</record_name>
+        <reverted_from/>
+        <source>de78b58edbe9a010a471e9c94896198f</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 06:18:58</sys_created_on>
+        <sys_id>78d7716adb312410a471e9c948961982</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17728bef1d80000001</sys_recorded_at>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 06:18:58</sys_updated_on>
+        <type>Module</type>
+        <update_guid>b0d7716aad3124104a46ff0bb66d6082</update_guid>
+        <update_guid_history>b0d7716aad3124104a46ff0bb66d6082:2107607576</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="NeedIt Properties">197f7922db712410a471e9c9489619b1</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2021-01-22 06:52:20</sys_created_on>
+        <sys_db_object display_value="" name="sys_app_module">sys_app_module</sys_db_object>
+        <sys_id>246267e0a2a84c789704366d207e3490</sys_id>
+        <sys_metadata>8e1775e6db312410a471e9c9489619ca</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>NeedIt Properties</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_app_module_8e1775e6db312410a471e9c9489619ca</sys_update_name>
+        <sys_update_version display_value="sys_app_module_8e1775e6db312410a471e9c9489619ca">78d7716adb312410a471e9c948961982</sys_update_version>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2021-01-22 06:52:20</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
